@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.8967b8f4.chunk.css",
-    "main.js": "/static/js/main.97c783d8.chunk.js",
-    "main.js.map": "/static/js/main.97c783d8.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.dcdca1e0.js",
-    "runtime~main.js.map": "/static/js/runtime~main.dcdca1e0.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.55a67642.chunk.js": "/static/js/2.55a67642.chunk.js",
-    "static/js/2.55a67642.chunk.js.map": "/static/js/2.55a67642.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.68d7984a8abcc7b2707e881783bce478.js": "/precache-manifest.68d7984a8abcc7b2707e881783bce478.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.8967b8f4.chunk.css.map": "/static/css/main.8967b8f4.chunk.css.map"
+    "main.css": "/smart-brain-app.github.io/static/css/main.8967b8f4.chunk.css",
+    "main.js": "/smart-brain-app.github.io/static/js/main.87b90d30.chunk.js",
+    "main.js.map": "/smart-brain-app.github.io/static/js/main.87b90d30.chunk.js.map",
+    "runtime~main.js": "/smart-brain-app.github.io/static/js/runtime~main.6d77f870.js",
+    "runtime~main.js.map": "/smart-brain-app.github.io/static/js/runtime~main.6d77f870.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/smart-brain-app.github.io/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.15f9dfd1.chunk.js": "/smart-brain-app.github.io/static/js/2.15f9dfd1.chunk.js",
+    "static/js/2.15f9dfd1.chunk.js.map": "/smart-brain-app.github.io/static/js/2.15f9dfd1.chunk.js.map",
+    "index.html": "/smart-brain-app.github.io/index.html",
+    "precache-manifest.b052529231c634d13d8c831a9ce29f14.js": "/smart-brain-app.github.io/precache-manifest.b052529231c634d13d8c831a9ce29f14.js",
+    "service-worker.js": "/smart-brain-app.github.io/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/smart-brain-app.github.io/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.8967b8f4.chunk.css.map": "/smart-brain-app.github.io/static/css/main.8967b8f4.chunk.css.map"
   }
 }
